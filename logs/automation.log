@@ -1,0 +1,57 @@
+22:19:30.392 [main] INFO  testCases.TC_003_LoanEMICalculator - Clicking on Loan Calculator Link
+22:19:38.588 [main] INFO  testCases.TC_003_LoanEMICalculator - Selecting EMI Calculator
+22:19:45.261 [main] INFO  testCases.TC_003_LoanEMICalculator - Validating Loan Amount Input Box
+22:19:45.301 [main] INFO  testCases.TC_003_LoanEMICalculator - Validating Loan Interest Input Box
+22:19:45.343 [main] INFO  testCases.TC_003_LoanEMICalculator - Validating Loan Tenure Input Box
+22:19:45.388 [main] INFO  testCases.TC_003_LoanEMICalculator - Validating Loan Fees&Charges Input Box
+22:27:10.778 [main] INFO  testCases.TC_001_CarLoan - *** Starting TC_001_CarLoan ***
+22:27:12.100 [main] INFO  testCases.TC_001_CarLoan - Setting Loan Amount Value
+22:27:14.488 [main] INFO  testCases.TC_001_CarLoan - Setting Interest Rate
+22:27:15.103 [main] INFO  testCases.TC_001_CarLoan - Setting Loan tenure
+22:27:29.927 [main] INFO  testCases.TC_002_HomeLoan - *** Starting TC_002_homeLoan ***
+22:27:31.054 [main] INFO  testCases.TC_002_HomeLoan - Setting loan Amount
+22:27:33.454 [main] INFO  testCases.TC_002_HomeLoan - Setting interest Rate 
+22:27:34.201 [main] INFO  testCases.TC_002_HomeLoan - Setting Loan Tenure 
+22:27:36.713 [main] INFO  testCases.TC_002_HomeLoan - Storing Table Data in a List
+22:27:38.321 [main] INFO  testCases.TC_002_HomeLoan - Writing Table Data into the Excel File
+22:27:51.539 [main] INFO  testCases.TC_003_LoanEMICalculator - *** Starting TC_003_LoanEMICalculator ***
+22:27:51.835 [main] INFO  testCases.TC_003_LoanEMICalculator - Clicking on Loan Calculator Link
+22:27:56.823 [main] INFO  testCases.TC_003_LoanEMICalculator - Selecting EMI Calculator
+22:28:03.804 [main] INFO  testCases.TC_003_LoanEMICalculator - Validating Loan Amount Input Box
+22:28:03.853 [main] INFO  testCases.TC_003_LoanEMICalculator - Validating Loan Interest Input Box
+22:28:03.911 [main] INFO  testCases.TC_003_LoanEMICalculator - Validating Loan Tenure Input Box
+22:28:03.970 [main] INFO  testCases.TC_003_LoanEMICalculator - Validating Loan Fees&Charges Input Box
+22:30:11.980 [main] INFO  testCases.TC_001_CarLoan - *** Starting TC_001_CarLoan ***
+22:30:12.931 [main] INFO  testCases.TC_001_CarLoan - Setting Loan Amount Value
+22:30:15.516 [main] INFO  testCases.TC_001_CarLoan - Setting Interest Rate
+22:30:16.183 [main] INFO  testCases.TC_001_CarLoan - Setting Loan tenure
+22:30:46.315 [main] INFO  testCases.TC_002_HomeLoan - *** Starting TC_002_homeLoan ***
+22:30:47.042 [main] INFO  testCases.TC_002_HomeLoan - Setting loan Amount
+22:30:50.254 [main] INFO  testCases.TC_002_HomeLoan - Setting interest Rate 
+22:30:51.304 [main] INFO  testCases.TC_002_HomeLoan - Setting Loan Tenure 
+22:30:53.452 [main] INFO  testCases.TC_002_HomeLoan - Storing Table Data in a List
+22:30:55.633 [main] INFO  testCases.TC_002_HomeLoan - Writing Table Data into the Excel File
+22:31:09.582 [main] INFO  testCases.TC_003_LoanEMICalculator - *** Starting TC_003_LoanEMICalculator ***
+22:31:09.889 [main] INFO  testCases.TC_003_LoanEMICalculator - Clicking on Loan Calculator Link
+22:31:16.330 [main] INFO  testCases.TC_003_LoanEMICalculator - Selecting EMI Calculator
+22:31:23.295 [main] INFO  testCases.TC_003_LoanEMICalculator - Validating Loan Amount Input Box
+22:31:23.335 [main] INFO  testCases.TC_003_LoanEMICalculator - Validating Loan Interest Input Box
+22:31:23.374 [main] INFO  testCases.TC_003_LoanEMICalculator - Validating Loan Tenure Input Box
+22:31:23.407 [main] INFO  testCases.TC_003_LoanEMICalculator - Validating Loan Fees&Charges Input Box
+22:40:10.598 [main] INFO  testCases.TC_001_CarLoan - *** Starting TC_001_CarLoan ***
+22:40:12.699 [main] INFO  testCases.TC_001_CarLoan - Setting Loan Amount Value
+22:40:15.156 [main] INFO  testCases.TC_001_CarLoan - Setting Interest Rate
+22:40:16.120 [main] INFO  testCases.TC_001_CarLoan - Setting Loan tenure
+22:40:39.770 [main] INFO  testCases.TC_002_HomeLoan - *** Starting TC_002_homeLoan ***
+22:40:41.670 [main] INFO  testCases.TC_002_HomeLoan - Setting loan Amount
+22:40:44.134 [main] INFO  testCases.TC_002_HomeLoan - Setting interest Rate 
+22:40:44.843 [main] INFO  testCases.TC_002_HomeLoan - Setting Loan Tenure 
+22:40:47.047 [main] INFO  testCases.TC_002_HomeLoan - Storing Table Data in a List
+22:40:49.177 [main] INFO  testCases.TC_002_HomeLoan - Writing Table Data into the Excel File
+22:41:10.299 [main] INFO  testCases.TC_003_LoanEMICalculator - *** Starting TC_003_LoanEMICalculator ***
+22:41:10.827 [main] INFO  testCases.TC_003_LoanEMICalculator - Clicking on Loan Calculator Link
+22:41:17.278 [main] INFO  testCases.TC_003_LoanEMICalculator - Selecting EMI Calculator
+22:41:24.867 [main] INFO  testCases.TC_003_LoanEMICalculator - Validating Loan Amount Input Box
+22:41:25.057 [main] INFO  testCases.TC_003_LoanEMICalculator - Validating Loan Interest Input Box
+22:41:25.145 [main] INFO  testCases.TC_003_LoanEMICalculator - Validating Loan Tenure Input Box
+22:41:25.282 [main] INFO  testCases.TC_003_LoanEMICalculator - Validating Loan Fees&Charges Input Box
