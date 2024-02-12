@@ -4,6 +4,7 @@
 
 	<test thread-count="5" name="ChromeTest">
 		<parameter name="browser" value="chrome" />
+		<parameter name="os" value="windows" />
 		<classes>
 	 		<class name="testCases.TC_001_CarLoan" />   
 			<class name="testCases.TC_002_HomeLoan" /> 	
@@ -15,6 +16,7 @@
 	
 	<test thread-count="5" name="EdgeTest">
 		<parameter name="browser" value="edge" />
+		<parameter name="os" value="windows" />
 		<classes>
 	 		<class name="testCases.TC_001_CarLoan" />   
 			<class name="testCases.TC_002_HomeLoan" /> 	
