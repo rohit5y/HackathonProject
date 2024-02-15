@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="14" passed="14" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-02-12T10:17:51 IST" name="Suite" finished-at="2024-02-12T10:20:01 IST" duration-ms="130039">
+  <suite started-at="2024-02-15T11:41:49 IST" name="Suite" finished-at="2024-02-15T11:43:29 IST" duration-ms="99835">
     <groups>
     </groups>
-    <test started-at="2024-02-12T10:17:51 IST" name="Test" finished-at="2024-02-12T10:20:01 IST" duration-ms="130039">
+    <test started-at="2024-02-15T11:41:49 IST" name="Test" finished-at="2024-02-15T11:43:29 IST" duration-ms="99835">
       <class name="testCases.TC_001_CarLoan">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_001_CarLoan@62379589]" started-at="2024-02-12T10:17:51 IST" name="setup" finished-at="2024-02-12T10:18:11 IST" duration-ms="19379" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_001_CarLoan@62379589]" started-at="2024-02-15T11:41:50 IST" name="setup" finished-at="2024-02-15T11:42:03 IST" duration-ms="12609" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -23,17 +23,17 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="CarEMICalculator()[pri:0, instance:testCases.TC_001_CarLoan@62379589]" started-at="2024-02-12T10:18:11 IST" name="CarEMICalculator" finished-at="2024-02-12T10:18:18 IST" duration-ms="6758" status="PASS">
+        <test-method signature="CarEMICalculator()[pri:0, instance:testCases.TC_001_CarLoan@62379589]" started-at="2024-02-15T11:42:03 IST" name="CarEMICalculator" finished-at="2024-02-15T11:42:10 IST" duration-ms="7625" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CarEMICalculator -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_001_CarLoan@62379589]" started-at="2024-02-12T10:18:18 IST" name="tearDown" finished-at="2024-02-12T10:18:19 IST" duration-ms="1257" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_001_CarLoan@62379589]" started-at="2024-02-15T11:42:11 IST" name="tearDown" finished-at="2024-02-15T11:42:12 IST" duration-ms="1160" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- testCases.TC_001_CarLoan -->
       <class name="testCases.TC_004_LoanAmountCalculator">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_004_LoanAmountCalculator@c730b35]" started-at="2024-02-12T10:19:11 IST" name="setup" finished-at="2024-02-12T10:19:26 IST" duration-ms="15277" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_004_LoanAmountCalculator@c730b35]" started-at="2024-02-15T11:42:52 IST" name="setup" finished-at="2024-02-15T11:43:02 IST" duration-ms="9668" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -49,29 +49,29 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="selectCalculator()[pri:0, instance:testCases.TC_004_LoanAmountCalculator@c730b35]" started-at="2024-02-12T10:19:26 IST" name="selectCalculator" finished-at="2024-02-12T10:19:28 IST" duration-ms="1427" status="PASS">
+        <test-method signature="selectCalculator()[pri:0, instance:testCases.TC_004_LoanAmountCalculator@c730b35]" started-at="2024-02-15T11:43:02 IST" name="selectCalculator" finished-at="2024-02-15T11:43:03 IST" duration-ms="1376" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- selectCalculator -->
-        <test-method signature="sliderValidation()[pri:0, instance:testCases.TC_004_LoanAmountCalculator@c730b35]" started-at="2024-02-12T10:19:28 IST" name="sliderValidation" finished-at="2024-02-12T10:19:34 IST" depends-on-methods="testCases.TC_004_LoanAmountCalculator.selectCalculator" duration-ms="5140" status="PASS">
+        <test-method signature="sliderValidation()[pri:0, instance:testCases.TC_004_LoanAmountCalculator@c730b35]" started-at="2024-02-15T11:43:03 IST" name="sliderValidation" finished-at="2024-02-15T11:43:08 IST" depends-on-methods="testCases.TC_004_LoanAmountCalculator.selectCalculator" duration-ms="4880" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- sliderValidation -->
-        <test-method signature="textBoxValidation()[pri:0, instance:testCases.TC_004_LoanAmountCalculator@c730b35]" started-at="2024-02-12T10:19:34 IST" name="textBoxValidation" finished-at="2024-02-12T10:19:34 IST" depends-on-methods="testCases.TC_004_LoanAmountCalculator.selectCalculator" duration-ms="168" status="PASS">
+        <test-method signature="textBoxValidation()[pri:0, instance:testCases.TC_004_LoanAmountCalculator@c730b35]" started-at="2024-02-15T11:43:09 IST" name="textBoxValidation" finished-at="2024-02-15T11:43:09 IST" depends-on-methods="testCases.TC_004_LoanAmountCalculator.selectCalculator" duration-ms="134" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- textBoxValidation -->
-        <test-method signature="loanTenureValidation()[pri:1, instance:testCases.TC_004_LoanAmountCalculator@c730b35]" started-at="2024-02-12T10:19:34 IST" name="loanTenureValidation" finished-at="2024-02-12T10:19:35 IST" depends-on-methods="testCases.TC_004_LoanAmountCalculator.selectCalculator" duration-ms="240" status="PASS">
+        <test-method signature="loanTenureValidation()[pri:1, instance:testCases.TC_004_LoanAmountCalculator@c730b35]" started-at="2024-02-15T11:43:09 IST" name="loanTenureValidation" finished-at="2024-02-15T11:43:09 IST" depends-on-methods="testCases.TC_004_LoanAmountCalculator.selectCalculator" duration-ms="205" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loanTenureValidation -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_004_LoanAmountCalculator@c730b35]" started-at="2024-02-12T10:19:35 IST" name="tearDown" finished-at="2024-02-12T10:19:36 IST" duration-ms="1244" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_004_LoanAmountCalculator@c730b35]" started-at="2024-02-15T11:43:09 IST" name="tearDown" finished-at="2024-02-15T11:43:11 IST" duration-ms="1175" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- testCases.TC_004_LoanAmountCalculator -->
       <class name="testCases.TC_002_HomeLoan">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_002_HomeLoan@6c6cb480]" started-at="2024-02-12T10:18:19 IST" name="setup" finished-at="2024-02-12T10:18:34 IST" duration-ms="15290" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_002_HomeLoan@6c6cb480]" started-at="2024-02-15T11:42:12 IST" name="setup" finished-at="2024-02-15T11:42:22 IST" duration-ms="10179" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -87,21 +87,21 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="homeEMICalculator()[pri:0, instance:testCases.TC_002_HomeLoan@6c6cb480]" started-at="2024-02-12T10:18:34 IST" name="homeEMICalculator" finished-at="2024-02-12T10:18:39 IST" duration-ms="4710" status="PASS">
+        <test-method signature="homeEMICalculator()[pri:0, instance:testCases.TC_002_HomeLoan@6c6cb480]" started-at="2024-02-15T11:42:22 IST" name="homeEMICalculator" finished-at="2024-02-15T11:42:26 IST" duration-ms="3782" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- homeEMICalculator -->
-        <test-method signature="getYearOYearData()[pri:0, instance:testCases.TC_002_HomeLoan@6c6cb480]" started-at="2024-02-12T10:18:39 IST" name="getYearOYearData" finished-at="2024-02-12T10:18:43 IST" depends-on-methods="testCases.TC_002_HomeLoan.homeEMICalculator" duration-ms="3822" status="PASS">
+        <test-method signature="getYearOYearData()[pri:0, instance:testCases.TC_002_HomeLoan@6c6cb480]" started-at="2024-02-15T11:42:26 IST" name="getYearOYearData" finished-at="2024-02-15T11:42:30 IST" depends-on-methods="testCases.TC_002_HomeLoan.homeEMICalculator" duration-ms="3739" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getYearOYearData -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_002_HomeLoan@6c6cb480]" started-at="2024-02-12T10:18:44 IST" name="tearDown" finished-at="2024-02-12T10:18:45 IST" duration-ms="1412" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_002_HomeLoan@6c6cb480]" started-at="2024-02-15T11:42:30 IST" name="tearDown" finished-at="2024-02-15T11:42:31 IST" duration-ms="1213" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- testCases.TC_002_HomeLoan -->
       <class name="testCases.TC_003_LoanEMICalculator">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_003_LoanEMICalculator@3c46e67a]" started-at="2024-02-12T10:18:45 IST" name="setup" finished-at="2024-02-12T10:19:01 IST" duration-ms="15847" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_003_LoanEMICalculator@3c46e67a]" started-at="2024-02-15T11:42:31 IST" name="setup" finished-at="2024-02-15T11:42:41 IST" duration-ms="10289" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -117,29 +117,29 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="selectCalculator()[pri:0, instance:testCases.TC_003_LoanEMICalculator@3c46e67a]" started-at="2024-02-12T10:19:01 IST" name="selectCalculator" finished-at="2024-02-12T10:19:02 IST" duration-ms="1508" status="PASS">
+        <test-method signature="selectCalculator()[pri:0, instance:testCases.TC_003_LoanEMICalculator@3c46e67a]" started-at="2024-02-15T11:42:41 IST" name="selectCalculator" finished-at="2024-02-15T11:42:43 IST" duration-ms="1680" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- selectCalculator -->
-        <test-method signature="loanTenureValidation()[pri:0, instance:testCases.TC_003_LoanEMICalculator@3c46e67a]" started-at="2024-02-12T10:19:03 IST" name="loanTenureValidation" finished-at="2024-02-12T10:19:03 IST" depends-on-methods="testCases.TC_003_LoanEMICalculator.selectCalculator" duration-ms="313" status="PASS">
+        <test-method signature="loanTenureValidation()[pri:0, instance:testCases.TC_003_LoanEMICalculator@3c46e67a]" started-at="2024-02-15T11:42:44 IST" name="loanTenureValidation" finished-at="2024-02-15T11:42:44 IST" depends-on-methods="testCases.TC_003_LoanEMICalculator.selectCalculator" duration-ms="234" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loanTenureValidation -->
-        <test-method signature="sliderValidation()[pri:0, instance:testCases.TC_003_LoanEMICalculator@3c46e67a]" started-at="2024-02-12T10:19:03 IST" name="sliderValidation" finished-at="2024-02-12T10:19:09 IST" depends-on-methods="testCases.TC_003_LoanEMICalculator.selectCalculator" duration-ms="5799" status="PASS">
+        <test-method signature="sliderValidation()[pri:0, instance:testCases.TC_003_LoanEMICalculator@3c46e67a]" started-at="2024-02-15T11:42:44 IST" name="sliderValidation" finished-at="2024-02-15T11:42:50 IST" depends-on-methods="testCases.TC_003_LoanEMICalculator.selectCalculator" duration-ms="5887" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- sliderValidation -->
-        <test-method signature="textBoxValidation()[pri:0, instance:testCases.TC_003_LoanEMICalculator@3c46e67a]" started-at="2024-02-12T10:19:09 IST" name="textBoxValidation" finished-at="2024-02-12T10:19:10 IST" depends-on-methods="testCases.TC_003_LoanEMICalculator.selectCalculator" duration-ms="201" status="PASS">
+        <test-method signature="textBoxValidation()[pri:0, instance:testCases.TC_003_LoanEMICalculator@3c46e67a]" started-at="2024-02-15T11:42:50 IST" name="textBoxValidation" finished-at="2024-02-15T11:42:50 IST" depends-on-methods="testCases.TC_003_LoanEMICalculator.selectCalculator" duration-ms="161" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- textBoxValidation -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_003_LoanEMICalculator@3c46e67a]" started-at="2024-02-12T10:19:10 IST" name="tearDown" finished-at="2024-02-12T10:19:11 IST" duration-ms="1378" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_003_LoanEMICalculator@3c46e67a]" started-at="2024-02-15T11:42:51 IST" name="tearDown" finished-at="2024-02-15T11:42:52 IST" duration-ms="1199" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- testCases.TC_003_LoanEMICalculator -->
       <class name="testCases.TC_005_LoanTenureCalculator">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_005_LoanTenureCalculator@206a70ef]" started-at="2024-02-12T10:19:36 IST" name="setup" finished-at="2024-02-12T10:19:51 IST" duration-ms="15256" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_005_LoanTenureCalculator@206a70ef]" started-at="2024-02-15T11:43:11 IST" name="setup" finished-at="2024-02-15T11:43:21 IST" duration-ms="9955" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -155,19 +155,19 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="selectCalculator()[pri:0, instance:testCases.TC_005_LoanTenureCalculator@206a70ef]" started-at="2024-02-12T10:19:51 IST" name="selectCalculator" finished-at="2024-02-12T10:19:53 IST" duration-ms="1539" status="PASS">
+        <test-method signature="selectCalculator()[pri:0, instance:testCases.TC_005_LoanTenureCalculator@206a70ef]" started-at="2024-02-15T11:43:21 IST" name="selectCalculator" finished-at="2024-02-15T11:43:22 IST" duration-ms="1300" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- selectCalculator -->
-        <test-method signature="sliderValidation()[pri:0, instance:testCases.TC_005_LoanTenureCalculator@206a70ef]" started-at="2024-02-12T10:19:53 IST" name="sliderValidation" finished-at="2024-02-12T10:19:59 IST" depends-on-methods="testCases.TC_005_LoanTenureCalculator.selectCalculator" duration-ms="5320" status="PASS">
+        <test-method signature="sliderValidation()[pri:0, instance:testCases.TC_005_LoanTenureCalculator@206a70ef]" started-at="2024-02-15T11:43:22 IST" name="sliderValidation" finished-at="2024-02-15T11:43:27 IST" depends-on-methods="testCases.TC_005_LoanTenureCalculator.selectCalculator" duration-ms="5079" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- sliderValidation -->
-        <test-method signature="textBoxValidation()[pri:0, instance:testCases.TC_005_LoanTenureCalculator@206a70ef]" started-at="2024-02-12T10:19:59 IST" name="textBoxValidation" finished-at="2024-02-12T10:19:59 IST" depends-on-methods="testCases.TC_005_LoanTenureCalculator.selectCalculator" duration-ms="158" status="PASS">
+        <test-method signature="textBoxValidation()[pri:0, instance:testCases.TC_005_LoanTenureCalculator@206a70ef]" started-at="2024-02-15T11:43:28 IST" name="textBoxValidation" finished-at="2024-02-15T11:43:28 IST" depends-on-methods="testCases.TC_005_LoanTenureCalculator.selectCalculator" duration-ms="141" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- textBoxValidation -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_005_LoanTenureCalculator@206a70ef]" started-at="2024-02-12T10:19:59 IST" name="tearDown" finished-at="2024-02-12T10:20:01 IST" duration-ms="1385" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_005_LoanTenureCalculator@206a70ef]" started-at="2024-02-15T11:43:28 IST" name="tearDown" finished-at="2024-02-15T11:43:29 IST" duration-ms="1228" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

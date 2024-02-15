@@ -95,14 +95,14 @@ public class CarLoan extends BasePage {
 	
 	public String getFebPrincipalAmount() throws InterruptedException {
 		tableCell2024Btn_Loc.click();
-		Thread.sleep(2000);
+		Thread.sleep(3000);
 		String principal =  febPrincipalAmt_Loc.getText();
 		System.out.println("Principal Amount for 1st Month : "+principal);
 		return principal;
 	}
 	
 	public String getFebInterestAmount() {
-		String interest =  febPrincipalAmt_Loc.getText();
+		String interest =  febInterest_Loc.getText();
 		System.out.println("Interest for 1st Month : "+interest);
 		System.out.println("-----------------------------------");
 		return febInterest_Loc.getText();

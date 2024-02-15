@@ -12,7 +12,7 @@ public class ScreenShot {
 	public void screenshot(WebDriver driver, String name) throws IOException {
 		TakesScreenshot takesScreenshot = (TakesScreenshot)driver;
 		File file = takesScreenshot.getScreenshotAs(OutputType.FILE);
-		File targetLocation = new File("C:\\Users\\2303518\\Testing\\Hackathon\\screenshots\\"+name+".png");
+		File targetLocation = new File("C:\\Hackathon_Project\\Hackathon\\screenshots\\"+name+".png");
 		FileUtils.copyFile(file, targetLocation);
 	}
 
